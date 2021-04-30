@@ -1,5 +1,4 @@
 # SPS-11251-Travel-Tourism
-Travel &amp; Tourism
 
 <h2>Objective:</h2>
 
@@ -21,7 +20,8 @@ Tableau Public is a free platform to explore, create and publicly share data vis
 https://public.tableau.com/views/TravelTourism_16197878662690/TravelTourism?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link
 
 <h2>Story Lik:</h2>
-https://public.tableau.com/views/TravelTourismStory/Story?:language=en&:display_count=y&:origin=viz_share_link
+
+https://public.tableau.com/views/TravelTourism_16197878662690/Story1?:language=en-GB&:display_count=y&:origin=viz_share_link
 
 <h2>Video Link:</h2>
 
