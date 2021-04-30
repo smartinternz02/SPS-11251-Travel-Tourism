@@ -19,7 +19,7 @@ Tableau Public is a free platform to explore, create and publicly share data vis
 <h2>Dashboard Link:</h2>
 https://public.tableau.com/views/TravelTourism_16197878662690/TravelTourism?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link
 
-<h2>Story Lik:</h2>
+<h2>Story Link:</h2>
 
 https://public.tableau.com/views/TravelTourism_16197878662690/Story1?:language=en-GB&:display_count=y&:origin=viz_share_link
 
